@@ -1,0 +1,326 @@
+[
+  {
+    "title": "غیر رنـد",
+    "icon": "fas fa-exclamation",
+    "numbers": [
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      }
+    ]
+  },
+  {
+    "title": "نیمه رنـد",
+    "icon": "fas fa-star-half-alt",
+    "numbers": [
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      }
+    ]
+  },
+  {
+    "title": "رنــد",
+    "icon": "fa fa-star",
+    "numbers": [
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      }]
+  },
+  {
+    "title": "سفارشی",
+    "icon": "fa fa-crown",
+    "numbers": [
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 9156405,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 216,
+        "number": 2452517,
+        "price": 1050000,
+        "sellingprice": 850000
+      },
+      {
+        "prenumber": 1,
+        "areacode": 213,
+        "number": 4650844,
+        "price": 1050000,
+        "sellingprice": 850000
+      }
+    ]
+  }
+]
